@@ -1,0 +1,11 @@
+{
+  "name": "Power Tracker",
+  "description": "Tracks current power consumption",
+  "uuid": "tomas@digitalspace.name",
+  "shell-version": [
+    "43"
+  ],
+  "url": "https://github.com/tomasmark79/GnomePowerTracker",
+  "settings-schema": "org.gnome.shell.extensions.powertracker",
+  "gettext-domain": "powertracker"
+}
